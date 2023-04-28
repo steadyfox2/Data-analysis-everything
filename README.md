@@ -1,6 +1,8 @@
 # Data-analysis-everything
 데이터 분석가가 반드시 알아야할 모든 것 책 코드 리뷰
 
+노션 스터디
+https://woker001.notion.site/526bae48036548579ecabf6cf8b475dd
 
 # 데이터 탐색과 시각화
 
